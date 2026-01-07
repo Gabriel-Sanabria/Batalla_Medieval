@@ -1,12 +1,7 @@
 # ⚔️ Batalla Medieval
-
-<div align="center">
-
 **Juego de estrategia por turnos ambientado en batallas medievales**
 
 <sub>© 2023-2026 Gabriel Sanabria. Todos los derechos reservados.<br>Proyecto público únicamente con fines de portafolio. NO se autoriza su distribución o comercialización.</sub>
-
-</div>
 
 ---
 
