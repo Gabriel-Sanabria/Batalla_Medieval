@@ -8,10 +8,9 @@
 ## 📸 Capturas
 
 <div align="center">
-  <img src="Capturas/Batalla%20medieval%201.png" width="600" alt="Batalla Medieval 1" style="margin-bottom: 20px;"/>
-  <img src="Capturas/Batalla%20medieval%202.png" width="600" alt="Batalla Medieval 2" style="margin-bottom: 20px;"/>
-  <img src="Capturas/Batalla%20medieval%203.png" width="600" alt="Batalla Medieval 3" 
-  />
+  <img src="Capturas/Batalla%20medieval%201.png" alt="Batalla Medieval 1" style="margin-bottom: 20px;" />
+  <img src="Capturas/Batalla%20medieval%202.png" alt="Batalla Medieval 2" style="margin-bottom: 20px;" />
+  <img src="Capturas/Batalla%20medieval%203.png" alt="Batalla Medieval 3" />
 </div>
 
 ---
