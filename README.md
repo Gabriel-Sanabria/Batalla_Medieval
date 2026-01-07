@@ -15,7 +15,7 @@
 
 ---
 
-## �️ Tecnologías
+## 🛠️ Tecnologías
 - **C#** - Lenguaje de programación
 - **Unity Engine** - Motor de juego
 - **Unity Physics 2D** - Sistema de física y colisiones
