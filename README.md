@@ -5,22 +5,6 @@
 
 ---
 
-## 🛠️ Tecnologías
-- **C#** - Lenguaje de programación
-- **Unity Engine** - Motor de juego
-- **Unity Physics 2D** - Sistema de física y colisiones
-- **Unity Animation System** - Animaciones
-
----
-
-## 📖 Sobre el Proyecto
-
-**Batalla Medieval** es un juego de estrategia táctica donde dos ejércitos se enfrentan en diferentes campos de batalla. Los jugadores controlan caballeros, arqueros y máquinas de guerra para derrotar al equipo contrario.  
-
-Selecciona un mapa, coloca tus máquinas de guerra, mueve tus unidades y ataca al enemigo por turnos. ¡Elimina todas las unidades enemigas para ganar!  
-
----
-
 ## 📸 Capturas
 
 <div align="center">
@@ -30,6 +14,23 @@ Selecciona un mapa, coloca tus máquinas de guerra, mueve tus unidades y ataca a
     <img src="Capturas/Batalla%20medieval%203.png" width="600" alt="Batalla Medieval 3" style="display: inline-block; margin-right: 15px;"/>
   </div>
 </div>
+
+---
+
+## �️ Tecnologías
+- **C#** - Lenguaje de programación
+- **Unity Engine** - Motor de juego
+- **Unity Physics 2D** - Sistema de física y colisiones
+- **Unity Animation System** - Animaciones
+- **Piskel** - Gráficos pixel art
+
+---
+
+## 📖 Sobre el Proyecto
+
+**Batalla Medieval** es un juego de estrategia táctica donde dos ejércitos se enfrentan en diferentes campos de batalla. Los jugadores controlan caballeros, arqueros y máquinas de guerra para derrotar al equipo contrario.  
+
+Selecciona un mapa, coloca tus máquinas de guerra, mueve tus unidades y ataca al enemigo por turnos. ¡Elimina todas las unidades enemigas para ganar!  
 
 ---
 
